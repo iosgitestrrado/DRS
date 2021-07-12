@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+
+<cust_login_Enter_ur_phone_number>Enter your phone number </cust_login_Enter_ur_phone_number>
+<cust_login_Use_Ph_No_Regist_log_drs>Use the phone number to register or login DRS</cust_login_Use_Ph_No_Regist_log_drs>
+<cust_login_sign_in>SIGN IN</cust_login_sign_in>
+<cust_login_forgot_password>FORGOT PASSWORD </cust_login_forgot_password>
+<cust_login_read_agree_terms_cond>I have read and agree Terms and Conditions , and Agreement. </cust_login_read_agree_terms_cond>
+<cust_login_verify_code_otp>Veriﬁcation codes OTP</cust_login_verify_code_otp>
+<cust_login_verify_code_sent_xxx>A verification codes has been sent to XXXXXXXXX</cust_login_verify_code_sent_xxx>
+<cust_login_next>NEXT</cust_login_next>
+<cust_login_send_again_otp>Send Again OTP</cust_login_send_again_otp>
+<cust_login_change_ph_no>Change Phone number</cust_login_change_ph_no>
+<cust_login_create_pass>Create a password </cust_login_create_pass>
+<cust_login_create_pass_6_no_safe_ur_drs>Create a password with 6 numbers to safeguard your DRS</cust_login_create_pass_6_no_safe_ur_drs>
+<cust_login_enter_pass>Enter password</cust_login_enter_pass>
+<cust_login_create_pass>Create a password </cust_login_create_pass>
+<cust_login_re_enter_pass>Re-enter the password</cust_login_re_enter_pass>
+<cust_login_referal_ID_if_any>Referral ID * If Any</cust_login_referal_ID_if_any>
+<cust_login_welcome>Welcome!</cust_login_welcome>
+<cust_login_enter_ur_pass>Enter your password</cust_login_enter_ur_pass>
+<cust_login_sign_in>SIGN IN</cust_login_sign_in>
+<!-- Forgot Password -->
+
+
+<forgot_password_forgot_ur_pass>Forgot Your Password</forgot_password_forgot_ur_pass>
+<forgot_password_let_us_help_u>Let us help you.</forgot_password_let_us_help_u>
+<forgot_password_enter_ur_details_begin>Enter your details to begin.</forgot_password_enter_ur_details_begin>
+<forgot_password_enter>ENTER</forgot_password_enter>
+<forgot_password_verify_code_otp>Veriﬁcation codes OTP</forgot_password_verify_code_otp>
+<forgot_password_verify_code_sent_xxx>A verification codes has been sent to XXXXXXXXX</forgot_password_verify_code_sent_xxx>
+<forgot_password_next>NEXT</forgot_password_next>
+<forgot_password_send_again_otp>Send Again OTP</forgot_password_send_again_otp>
+<forgot_password_change_ph_no>Change Phone number</forgot_password_change_ph_no>
+
+<forgot_password_create_pass>Create a password</forgot_password_create_pass>
+<forgot_password_create_pass_6_no_safe_ur_drs>Create a password with 6 numbers to safeguard your DRS</forgot_password_create_pass_6_no_safe_ur_drs>
+<forgot_password_enter_name>Enter name</forgot_password_enter_name>
+<forgot_password_enter_pass>Enter password</forgot_password_enter_pass>
+<forgot_password_re_enter_pass>Re-enter the password</forgot_password_re_enter_pass>
+<forgot_password_enter>Enter</forgot_password_enter>
+
+<!-- HOME PAGE -->
+
+
+<home_page_good_morning>Good Morning</home_page_good_morning>
+<home_page_MMK>MMK</home_page_MMK>
+<home_page_VP>VP</home_page_VP>
+<home_page_top_up_wallet>Top Up Wallet</home_page_top_up_wallet>
+<home_page_buy_voucher_pt>Buy Voucher Point</home_page_buy_voucher_pt>
+<home_page_share>Share</home_page_share>
+<home_page_promtions>Promotions</home_page_promtions>
+<home_page_assistant>Assistant</home_page_assistant>
+<home_page_home>HOME</home_page_home>
+<home_page_share>Share</home_page_share>
+<home_page_scan_pay>SCAN And PAY</home_page_scan_pay>
+<home_page_merchant>MERCHANTS</home_page_merchant>
+<home_page_promotion_detail>Promotion Details</home_page_promotion_detail>
+<!-- Scan Code -->
+
+
+<scan_code_scan_code>Scan Code</scan_code_scan_code>
+<scan_code_move_camera_see_QR_code_confirm_payment>Move the camera to see the QR code and confirm the payment</scan_code_move_camera_see_QR_code_confirm_payment>
+<scan_code_pay_code>Pay Code</scan_code_pay_code>
+<scan_code_payment_detail>Payment Details</scan_code_payment_detail>
+<scan_code_select_payment>Select Payment</scan_code_select_payment>
+<scan_code_pay_code>Pay Code</scan_code_pay_code>
+<scan_code_payment_detail>Payment Details</scan_code_payment_detail>
+<scan_code_select_payment>Select Payment</scan_code_select_payment>
+<scan_code_cash>Cash</scan_code_cash>
+<scan_code_wallet>Wallet</scan_code_wallet>
+<scan_code_amount>Amount</scan_code_amount>
+<scan_code_rebate_entitled>Rebate Entitled</scan_code_rebate_entitled>
+<scan_code_slide_rebate_more>SLIDE TO REBATE MORE!</scan_code_slide_rebate_more>
+<scan_code_ur_voucher_pts>YOUR VOUCHER POINTS </scan_code_ur_voucher_pts>
+<scan_code_rebate_entitled>Rebate Entitled</scan_code_rebate_entitled>
+<scan_code_slide_rebate_more>SLIDE TO REBATE MORE!</scan_code_slide_rebate_more>
+<scan_code_pts_avaliable>POINTS AVAILABLE</scan_code_pts_avaliable>
+<scan_code_submit>SUBMIT</scan_code_submit>
+<scan_code_payment_detail>Payment Details</scan_code_payment_detail>
+<scan_code_verify_code>Veriﬁcation codes</scan_code_verify_code>
+<scan_code_ask_merchant_key_in_payment_pin_code>Please ask Merchant to Key In Payment Pin Code</scan_code_ask_merchant_key_in_payment_pin_code>
+<scan_code_done>DONE</scan_code_done>
+<scan_code_transcation_detail>Transaction Details</scan_code_transcation_detail>
+<scan_code_payment_success>Payment Successful</scan_code_payment_success>
+<scan_code_total>Total</scan_code_total>
+<scan_code_merchant_name>Merchant Name</scan_code_merchant_name>
+<scan_code_trans_ID>Transaction ID</scan_code_trans_ID>
+<scan_code_User_ID>User ID</scan_code_User_ID>
+<scan_code_rebate_entitled>Rebate Entitled</scan_code_rebate_entitled>
+<scan_code_transcation_detail>Transaction Details</scan_code_transcation_detail>
+<scan_code_payment_unsuccess>Payment Unsuccessful</scan_code_payment_unsuccess>
+<scan_code_merchant_insufficient_credit_unable_proceed>Merchant Insufﬁcient Credit Unable to Proceed.</scan_code_merchant_insufficient_credit_unable_proceed>
+<scan_code_insufficient_wallet_credit_unable_proceed>Insufﬁcient Wallet Credit Unable to Proceed.</scan_code_insufficient_wallet_credit_unable_proceed>
+
+<!-- Our Merchants -->
+
+<Our_Merchants_our_near_merchant>Our Nearby Merchants</Our_Merchants_our_near_merchant>
+<Our_Merchants_look_for>I’m looking for </Our_Merchants_look_for>
+<Our_Merchants_hotel>Hotel</Our_Merchants_hotel>
+<Our_Merchants_food>Food</Our_Merchants_food>
+<Our_Merchants_entertainment>Entertainment</Our_Merchants_entertainment>
+<Our_Merchants_travel>Travel</Our_Merchants_travel>
+<Our_Merchants_electronics>Electronics</Our_Merchants_electronics>
+<Our_Merchants_health>Health</Our_Merchants_health>
+<Our_Merchants_women_accessories>Woman Accessories</Our_Merchants_women_accessories>
+<Our_Merchants_sports>Sports</Our_Merchants_sports>
+<Our_Merchants_car_accessories>Car & Accessories</Our_Merchants_car_accessories>
+<Our_Merchants_furniture_home_appliances>Furniture & Home Appliances</Our_Merchants_furniture_home_appliances>
+<Our_Merchants_event_wedding>Event & Wedding</Our_Merchants_event_wedding>
+<Our_Merchants_optical_eye_wear>Optical & Eye-wear</Our_Merchants_optical_eye_wear>
+<Our_Merchants_printing>Printing</Our_Merchants_printing>
+<Our_Merchants_beauty>Beauty</Our_Merchants_beauty>
+<Our_Merchants_others>Others</Our_Merchants_others>
+
+
+<Woman_Accessories_love_co_sunway_velocity>Love & Co. - Sunway Velocity</Woman_Accessories_love_co_sunway_velocity>
+<Woman_Accessories_cheras_7km_away>Cheras : 7km away</Woman_Accessories_cheras_7km_away>
+<Woman_Accessories_open_now>OPEN NOW</Woman_Accessories_open_now>
+
+<!-- Merchant Details -->
+
+
+<Merchant_Details_food>Food</Merchant_Details_food>
+<Merchant_Details_old_town_white_coffee>Old Town White Coffee</Merchant_Details_old_town_white_coffee>
+<Merchant_Details-Open_now>OPEN NOW </Merchant_Details-Open_now>
+<Merchant_Details_location>Location </Merchant_Details_location>
+<Merchant_Details_address>No. 2, Jalan Kosas 1/5, Taman Kosas, Ampang,68000, Selangor, Malaysia5km away </Merchant_Details_address>
+<Merchant_Details_open_hrs>Opening Hours </Merchant_Details_open_hrs>
+<Merchant_Details_today>Today, 09:00am - 10:00pm </Merchant_Details_today>
+<Merchant_Details_call>Call</Merchant_Details_call>
+<Merchant_Details_direction>Direction</Merchant_Details_direction>
+<Merchant_Details_description>Description</Merchant_Details_description>
+<Merchant_Details_established_since_1999>OldTown Berhad is Malaysia's largest halalcertified kopi tiam restaurant chain in Ipoh,Perak established since 1999.</Merchant_Details_established_since_1999>
+
+<!-- Review -->
+
+
+<Review_price>Price</Review_price>
+<Review_under>Under</Review_under>
+<Review_over>Over</Review_over>
+<Review_love_rating>Love Rating</Review_love_rating>
+<Review_comments>Comments</Review_comments>
+<Review_type_here>Type here...</Review_type_here>
+
+<!-- Setting -->
+
+
+<Setting_katharina>Katharina</Setting_katharina>
+<Setting_voucher_pts>Voucher points</Setting_voucher_pts>
+<Setting_bal_wallet>Balance in the wallet</Setting_bal_wallet>
+<Setting_acc_setting>Account Setting</Setting_acc_setting>
+<Setting_my_wallet>My Wallet</Setting_my_wallet>
+<Setting_my_voucher_pt>My Voucher Point</Setting_my_voucher_pt>
+<Setting_invite_earn>Invite & Earn</Setting_invite_earn>
+<Setting_notifiations>Notifications</Setting_notifiations>
+<Setting_trans_history>Transaction History</Setting_trans_history>
+
+<Setting_cust_support>Customer Support</Setting_cust_support>
+<Setting_sign_up_drs_merchant>Sign up as a DRS Merchant</Setting_sign_up_drs_merchant>
+<Setting+about_us>About DRS</Setting+about_us>
+<Setting_sign_out>Sign Out</Setting_sign_out>
+
+<!-- Account Setting -->
+<!----- <Setting_language>Language<Setting_language/> ---->
+
+<Account_Setting_change_photo>Change Photo</Account_Setting_change_photo>
+<Account_Setting_first_name>First Name</Account_Setting_first_name>
+<Account_Setting_zoe>Zoe</Account_Setting_zoe>
+<Account_Setting_last_name>Last Name</Account_Setting_last_name>
+<Account_Setting_leong>Leong</Account_Setting_leong>
+<Account_Setting_age>Age</Account_Setting_age>
+<Account_Setting_gender>Gender</Account_Setting_gender>
+<Account_Setting_female>Female</Account_Setting_female>
+<Account_Setting_ID_No>ID No.</Account_Setting_ID_No>
+<Account_Setting_addrs>Address</Account_Setting_addrs>
+<Account_Setting_Po_box>PO Box</Account_Setting_Po_box>
+<Account_Setting_country>Country</Account_Setting_country>
+<Account_Setting_myanmar>Myanmar</Account_Setting_myanmar>
+<Account_Setting_email>Email</Account_Setting_email>
+<Account_Setting_xx_gamil_com>xxxxx@gmail.com</Account_Setting_xx_gamil_com>
+<Account_Setting_Ph_No>Phone Number</Account_Setting_Ph_No>
+<Account_Setting_pass>Password</Account_Setting_pass>
+<Account_Setting_bank_name>Bank Name</Account_Setting_bank_name>
+<Account_Setting_HSBC>HSBC</Account_Setting_HSBC>
+<Account_Setting_bank_holder_name>Bank Holder Name</Account_Setting_bank_holder_name>
+<Account_Setting_bank_acc_no>Bank Account No.</Account_Setting_bank_acc_no>
+<Account_Setting_bank_swift_code>Bank SWIFT Code</Account_Setting_bank_swift_code>
+<Account_Setting_branch_address>Branch Address</Account_Setting_branch_address>
+<Account_Setting_PO_box>PO Box</Account_Setting_PO_box>
+<Account_Setting_ref_ID>Referral ID</Account_Setting_ref_ID>
+<Account_Setting_JJU896>JJU896</Account_Setting_JJU896>
+<Account_Setting_share_link_ivite_other_join_drs>Share Link invite other user Join DRS platform.</Account_Setting_share_link_ivite_other_join_drs>
+<Account_Setting_change_Photo>Change Photo</Account_Setting_change_Photo>
+<Account_Setting_choost_exist_photo>Choose Existing Photo</Account_Setting_choost_exist_photo>
+<Account_Setting_take_photo>Take Photo</Account_Setting_take_photo>
+<Account_Setting_cancel>Cancel</Account_Setting_cancel>
+
+
+
+<!-- Change First Name -->
+
+
+<Change_First_Name_change_fname>Change First Name</Change_First_Name_change_fname>
+<Change_First_Name_cancel>Cancel</Change_First_Name_cance>
+<Change_First_Name_save>Save</Change_First_Name_save>
+
+
+<!-- Account Setting -->
+<Account_Setting_gender>Gender</Account_Setting_gender>
+<Account_Setting_male>Male</Account_Setting_male>
+<Account_Setting_female>Female</Account_Setting_female>
+<Account_Setting_cancel>Cancel</Account_Setting_cancel>
+
+
+<!-- Change Address -->
+
+<Change_Addres_Enter_ur_addrs>Enter your address</Change_Addres_Enter_ur_addrs>
+<Change_Address_cancel>Cancel</Change_Address_cancel>
+<Change_address_save>Save</Change_address_save>
+
+
+<!-- Top Up Wallet -->
+
+<Top_Up_Wallet_enter_ur_pre_amt>Enter your preferred MMK amount</Top_Up_Wallet_enter_ur_pre_amt>
+<Top_Up_Wallet_min_top_amt>Min top up amount is 10,000 </Top_Up_Wallet_min_top_amt>
+<Top_Up_Wallet_select_payment>Select Payment</Top_Up_Wallet_select_payment>
+<Top_Up_Wallet_offline_bank_transfer>Offline Bank Transfer</Top_Up_Wallet_offline_bank_transfer>
+<Top_Up_Wallet_HSBC_bank>HSBC Bank</Top_Up_Wallet_HSBC_bank>
+<Top_Up_Wallet_upload_receipt>UPLOAD RECEIPT</Top_Up_Wallet_upload_receipt>
+<Top_Up_Wallet_upload>UPLOAD </Top_Up_Wallet_upload>
+<Top_Up_Wallet_visa_master>VISA / MASTER</Top_Up_Wallet_visa_master>
+<Top_Up_Wallet_ok_dollar>Ok Dollar </Top_Up_Wallet_ok_dollar>
+<Top_Up_Wallet_submit>SUBMIT</Top_Up_Wallet_submit>
+<Top_Up_Wallet_wallet>WALLET HISTORY</Top_Up_Wallet_wallet>
+
+
+<!-- Wallet History -->
+
+<Wallet_History_look_for>I’m looking for…</Wallet_History_look_for>
+<Wallet_History_march_2020>March 2020</Wallet_History_march_2020>
+<Wallet_History_success>Successful</Wallet_History_success>
+<Wallet_History_trans_ID>Transaction ID</Wallet_History_trans_ID>
+<Wallet_History_pending>Pending</Wallet_History_pending>
+<Wallet_History_unsuccess>Unsuccessful</Wallet_History_unsuccess>
+<Wallet_History_feb_2020>February 2020</Wallet_History_feb_2020>
+
+
+<!-- Top Up Voucher Point -->
+
+
+<Top_Up_Voucher_Point_voucher_pt_history>VOUCHER POINT HISTORY</Top_Up_Voucher_Point_voucher_pt_history>
+
+<!-- Voucher Point History -->
+
+
+<Voucher_Point_History_look_for>I’m looking for…</Voucher_Point_History_look_for>
+<Voucher_Point_History_march_2020>March 2020</Voucher_Point_History_march_2020>
+
+
+<!-- Transaction Information -->
+
+<Transaction_Information_success_trans>Successful Transaction</Transaction_Information_success_trans>
+<Transaction_Information_success_transfer_money_frm_bank_to_drs>You have successfully transferred money from your Bank Account to DRS COMPANY LIMITED</Transaction_Information_success_transfer_money_frm_bank_to_drs>
+<Transaction_Information_vouch_pt_bal>Voucher point balance:</Transaction_Information_vouch_pt_bal>
+<Transaction_Information_ref_no>Ref no. :</Transaction_Information_ref_no>
+
+<!-- Invite and Earn -->
+
+<Invite_and_Earn_u_have_earn>YOU HAVE EARN</Invite_and_Earn_u_have_earn>
+<Invite_and_Earn_for_now>AS FOR NOW</Invite_and_Earn_for_now>
+<Invite_and_Earn_ur_invite_code>Your Invite Code</Invite_and_Earn_ur_invite_code>
+<Invite_and_Earn_cyruqnekr>CYRUQNEKR</Invite_and_Earn_cyruqnekr>
+<Invite_and_Earn_share_via_watsap>Share via WhatsApp</nvite_and_Earn_share_via_watsap>
+<Invite_and_Earn_more>More</Invite_and_Earn_more>
+<Invite_and_Earn_commission_history>Commission History</Invite_and_Earn_commission_history>
+<Invite_and_Earn_view>View</Invite_and_Earn_view>
+<Invite_and_Earn_withdrawal>WITHDRAWAL</Invite_and_Earn_withdrawal>
+
+<!-- Referral Rewards -->
+
+
+<Referral_Rewards_ref_rewards>Referral Rewards</Referral_Rewards_ref_rewards>
+<Referral_Rewards_purchase_joe_mar_20>Purchase by Joe Leong on 20 Mar 20 </Referral_Rewards_purchase_joe_mar_20>
+
+
+<!-- Withdrawal -->
+
+<Withdrawal_acc_bal>Account Balance:</Withdrawal_acc_bal>
+<Withdrawal_enter_amt>Enter the amount</Withdrawal_enter_amt>
+<Withdrawal_withdraw_link_bank>Withdraw to the link bank</Withdrawal_withdraw_link_bank>
+<Withdrawal_HSBC_bank>HSBC BANK</Withdrawal_HSBC_bank>
+<Withdrawal_withdraw_wallet>Withdraw to wallet/Withdrawal_withdraw_wallet>
+<Withdrawal_my_drs_wallet>MY DRS WALLET</Withdrawal_my_drs_wallet>
+<Withdrawal_terms_condition>Terms and Conditions:
+    1. Minimum withdrawal amount of USD50.
+    2. 1.5% of the withdraw amount will be charged for each transaction as processing fee.
+    3. Withdrawal requests will be processed on 3rd, 13th, and 23th of each month, 5 working days of processing period is required.</Withdrawal_terms_condition>
+<Withdrawal_confirm>CONFIRM</Withdrawal_confirm>
+<Withdrawal_withdraw_list>WITHDRAWAL HISTORY</Withdrawal_withdraw_list>
+
+<Withdrawal_withdraw_list_Title>Withdrawal History</Withdrawal_withdraw_list_Title>
+
+<Withdrawal_withdraw_search>I’m looking for date…</Withdrawal_withdraw_search>
+
+<!-- Withdrawal Details -->
+
+
+<Withdrawal_Details_Title>Withdrawal Details</Withdrawal_Details_Title>
+<Withdrawal_Details_withdraw_req_submit>Withdrawal Request Submitted</Withdrawal_Details_withdraw_req_submit>
+<Withdrawal_Details_amount>Amount</Withdrawal_Details_amount>
+<Withdrawal_Details_date_time>Date and time</Withdrawal_Details_date_time>
+<Withdrawal_Details_trans_ID>Transaction ID</Withdrawal_Details_trans_ID>
+<!-- Withdrawal History -->
+
+
+<Withdrawal_History_look_for>I’m looking for…</Withdrawal_History_look_for>
+
+
+<!-- Transaction Information -->
+<Transaction_Information_wallet_balance>Wallet balance:</Transaction_Information_wallet_balance>
+
+
+<!-- Setting -->
+
+<Setting_vouch_pts>Voucher points</Setting_vouch_pts>
+<Setting_bal_wallet>Balance in the wallet </Setting_bal_wallet>
+<Setting_acc_settings>Account Setting</Setting_acc_settings>
+<Setting_my_wallet>My Wallet</Setting_my_wallet>
+<Setting_language>Language</Setting_language>
+<Setting_english>English</Setting_english>
+<Setting_burmese>Burmese</Setting_burmese>
+<Setting_trans_history>Transaction History</Setting_trans_history>
+<Setting_cancel>CANCEL</Setting_cancel>
+<Setting_are_u_sure_sign_out>Are you sure you want to sign out?</Setting_are_u_sure_sign_out>
+<Setting_no>NO</Setting_no>
+<Setting_yes>YES</Setting_yes>
+<Setting_invite_earn>Invite & Earn</Setting_invite_earn>
+<Setting_notfi>Notifications</Setting_notfi>
+<Setting_trans_history>Transaction History</Setting_trans_history>
+<Setting_Cust_Support>Customer Support</Setting_Cust_Support>
+<Setting_language>Language</Setting_language>
+<!-- Notifications -->
+
+
+<Notifications_look_for>I’m looking for…</Notifications_look_for>
+<Notifications_news_event>News and event</Notifications_news_event>
+<Notifications_20_mar_2020>20 Mar 20</Notifications_20_mar_2020>
+
+<!-- About Us -->
+
+
+<About_Us_desc>Description</About_Us_desc>
+
+
+<!-- Customer Support -->
+
+<Customer_Support_look_for>I’m looking for</Customer_Support_look_for>
+<Customer_Support_msg_1067>#MSG - 1067</Customer_Support_msg_1067>
+<Customer_Support_last_msg>Last message...</Customer_Support_last_msg>
+
+
+<!-- New Message -->
+<New_Message_to_support_center>To: Support Centre</New_Message_to_support_center>
+<New_Message_plz_type_msg>Please type a message...</New_Message_plz_type_msg>
+<New_Message_send>Send</New_Message_send>
+<New_Message_choose_file>Choose File</New_Message_choose_file>
+<New_Message_no_file_chosen>No file chosen</New_Message_no_file_chosen>
+
+
+<!-- Transaction History -->
+<Transaction_History_look_for>I’m looking for…</Transaction_History_look_for>
+<Transaction_History_all_payment>All Payment</Transaction_History_all_payment>
+<Transaction_History_wallet>Wallet</Transaction_History_wallet>
+<Transaction_History_cash>Cash</Transaction_History_cash>
+<Transaction_History_march_2020>March 2020</Transaction_History_march_2020>
+<Transaction_History_cash>Cash</Transaction_History_cash>
+<Transaction_History_wallet>Wallet</Transaction_History_wallet>
+<Transaction_History_feb_2020>February 2020</Transaction_History_feb_2020>
+<common_no_record>No records found</common_no_record>
+
+</resource>
+

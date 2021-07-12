@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <!-- Get Phone number -->
+    <cust_login_Enter_ur_phone_number>သင်၏ဖုန်းနံပါတ်ကိုရိုက်ထည့်ပါ</cust_login_Enter_ur_phone_number>
+    <cust_login_Use_Ph_No_Regist_log_drs>DRSကိုမှတ်ပုံတင်ရန်(သို့)ဝင်ရောက်ရန်ဖုန်းနံပါတ်ကိုသုံးပါ</cust_login_Use_Ph_No_Regist_log_drs>
+    <cust_login_sign_in>သင်မည်</cust_login_sign_in>
+    <cust_login_forgot_password>စကားဝှက်ကိုမေ့နေပါသည်</cust_login_forgot_password>
+    <cust_login_read_agree_terms_cond>ကျွန်ုပ်သည်စည်းကမ်းချက်များနှင့်သဘောတူညီချက်ကိုဖတ်ပြီးသဘောတူပြီးပါပြီ</cust_login_read_agree_terms_cond>
+    <cust_login_enter_pass>စကားဝှက်ကိုရိုက်ထည့်ပါ</cust_login_enter_pass>
+    
+    <!-- Forgot Password -->
+    <forgot_password_forgot_ur_pass>သင်၏စကားဝှက်ကိုမေ့နေပါသလား</forgot_password_forgot_ur_pass>
+    <forgot_password_let_us_help_u>သင့်ကိုကူညီပါမည်။ စတင်နိုင်ရန်သင်၏အသေးစိတ်အချက်အလက်များကိုပေးပါ</forgot_password_let_us_help_u>
+    <forgot_password_enter>နိပ်ပါ</forgot_password_enter>
+    <!-- Verify OTP -->
+    <forgot_password_verify_code_otp_title>OTPကိုအတည်ပြုပါ</forgot_password_verify_code_otp_title>
+    <forgot_password_verify_code_otp>OTPကိုအတည်ပြုcode</forgot_password_verify_code_otp>
+    <forgot_password_verify_code_sent_xxx>အတည်ပြုကုဒ်များကို09XXXXXXXXXသို့ပို့ထားသည်</forgot_password_verify_code_sent_xxx>
+    <forgot_password_next>နောက်တစ်ခု</forgot_password_next>
+    <forgot_password_send_again_otp>OTPပြန်ပို့ပါ</forgot_password_send_again_otp>
+    <forgot_password_change_ph_no>ဖုန်းနံပါတ်ပြောင်းမည်</forgot_password_change_ph_no>
+    <!-- Create Password -->
+    <forgot_password_create_pass_title>စကားဝှက်အသစ်ဖန်တီးပါ</forgot_password_create_pass_title>
+    <forgot_password_create_pass>စကားဝှက်တစ်ခုဖန်တီးပါ</forgot_password_create_pass>
+    <forgot_password_create_pass_6_no_safe_ur_drs>သင်၏DRSကိုကာကွယ်ရန်နံပါတ်(၆)ခုပါသောစကားဝှက်တစ်ခုကိုဖန်တီးပါ</forgot_password_create_pass_6_no_safe_ur_drs>
+    <forgot_password_enter_name>အမည်ထည့်ပါ</forgot_password_enter_name>
+    <forgot_password_enter_pass>စကားဝှက်ကိုရိုက်ထည့်ပါ</forgot_password_enter_pass>
+    <forgot_password_re_enter_pass>စကားဝှက်ကိုပြန်ရိုက်ထည့်ပါ</forgot_password_re_enter_pass>
+    <forgot_password_create_referral>လွှဲပြောင်းသူID*ရှိလျှင်</forgot_password_create_referral>
+    <!-- Login Page -->
+    <cust_login_change_ph_no>ဖုန်းနံပါတ်ပြောင်းပါ</cust_login_change_ph_no>
+    <cust_login_welcome>ကြိုဆိုပါ၏</cust_login_welcome>
+    
+    <!-- HOME PAGE -->
+    
+    <home_page_good_morning>မင်္ဂလာနံနက်ခင်းပါ</home_page_good_morning>
+    <home_page_MMK>ကျပ်</home_page_MMK>
+    <home_page_VP>ပွိုင့်</home_page_VP>
+    <home_page_top_up_wallet>ပိုက်ဆံအိတ်ငွေဖြည့်မည်</home_page_top_up_wallet>
+    <home_page_buy_voucher_pt>ဘောက်ချာပွိုင့်ဝယ်မည်</home_page_buy_voucher_pt>
+    <home_page_share>ဖြန့်ဝေမည်</home_page_share>
+    <home_page_promtions>အရောင်းမြှင့်တင်ခြင်းများ</home_page_promtions>
+    <home_page_assistant>အထောက်အပံ့</home_page_assistant>
+    <home_page_home>မူလစာမျက်နှာ</home_page_home>
+    
+    <home_page_scan_pay>စကင်ဖတ်ပြီးငွေပေး</home_page_scan_pay>
+    <home_page_merchant>ကုန်သည်</home_page_merchant>
+    <home_page_promotion_detail>အရောင်းမြှင့်တင်ခြင်းအသေးစိတ်</home_page_promotion_detail>
+    <home_page_assistant_detail>အထောက်အပံ့အသေးစိတ်</home_page_assistant_detail>
+    
+   
+    <!-- Setting -->
+    
+    <Setting_title>ချိန်ညှိချက်များ</Setting_title>
+    <Setting_vouch_pts>ဘောက်ချာပွိုင့်များ</Setting_vouch_pts>
+    <Setting_bal_wallet>ပိုက်ဆံအိတ်လက်ကျန်</Setting_bal_wallet>
+    <Setting_acc_settings>အကောင့်ချိန်ညှိခြင်း</Setting_acc_settings>
+    <Setting_my_wallet>ကျွန်ုပ်၏ပိုက်ဆံအိတ်</Setting_my_wallet>
+    <Setting_invite_earn>ဖြန့်ဝေပြီးဝင်ငွေရ</Setting_invite_earn>
+    <Setting_trans_history>ငွေသွင်းငွေထုတ်သမိုင်း</Setting_trans_history>
+    <Setting_Cust_Support>ဖောက်သည်အကူအညီ</Setting_Cust_Support>
+    <Setting_Language>ဘာသာစကား</Setting_Language>
+    <Setting_DRSM>DRS၏ကုန်သည်အဖြစ်စာရင်းသွင်း</Setting_DRSM>
+    <Setting_About>DRSအကြောင်း</Setting_About>
+    <Setting_SIGN_OUT>ထွက်မည်</Setting_SIGN_OUT>
+    <Setting_are_u_sure_sign_out>သင်ထွက်မည်မှာသေချာပါသလား?</Setting_are_u_sure_sign_out>
+    <Setting_no>မထွက်ပါ</Setting_no>
+    <Setting_yes>ထွက်မည်</Setting_yes>
+    
+    
+    
+    <Setting_language_eng>အင်္ဂလိပ်</Setting_language_eng>
+    <Setting_language_bur>မြန်မာ</Setting_language_bur>
+   
+    
+    
+    <!-- Account Setting -->
+    
+    
+    <Account_Setting_change_photo>ပုံပြောင်းမည်</Account_Setting_change_photo>
+    <Account_Setting_first_name>ပထမအမည်</Account_Setting_first_name>
+    <Account_Setting_zoe>အောင်</Account_Setting_zoe>
+    <Account_Setting_last_name>နောက်ဆုံးအမည်</Account_Setting_last_name>
+    <Account_Setting_leong>ကျော်</Account_Setting_leong>
+    <Account_Setting_age>အသက်</Account_Setting_age>
+    <Account_Setting_gender>ကျား</Account_Setting_gender>
+    <Account_Setting_female>မ</Account_Setting_female>
+    <Account_Setting_ID_No>သင်၏ID</Account_Setting_ID_No>
+    <Account_Setting_addrs>နေရပ်လိပ်စာ</Account_Setting_addrs>
+    <Account_Setting_Po_box>စာတိုက်အမှတ်</Account_Setting_Po_box>
+    <Account_Setting_country>နိုင်ငံ</Account_Setting_country>
+    <Account_Setting_myanmar>မြန်မာ</Account_Setting_myanmar>
+    <Account_Setting_email>အီးလ်မေးလ်</Account_Setting_email>
+    <Account_Setting_xx_gamil_com>xxxxx@gmail.com</Account_Setting_xx_gamil_com>
+    <Account_Setting_Ph_No>ဖုန်းနံပါတ်</Account_Setting_Ph_No>
+    <Account_Setting_pass>စကားဝှက်</Account_Setting_pass>
+    <Account_Setting_bank_name>ဘဏ်အမည်</Account_Setting_bank_name>
+    <Account_Setting_HSBC>KBZ</Account_Setting_HSBC>
+    <Account_Setting_bank_holder_name>ဘဏ်အကောင့်ပိုင်ရှင်အမည်</Account_Setting_bank_holder_name>
+    <Account_Setting_bank_acc_no>ဘဏ်အကောင့်နံပါတ်</Account_Setting_bank_acc_no>
+    <Account_Setting_bank_swift_code>ဘဏ်ဆွစ်ကုဒ်</Account_Setting_bank_swift_code>
+    <Account_Setting_branch_address>ဘဏ်ခွဲလိပ်စာ</Account_Setting_branch_address>
+    <Account_Setting_PO_box>စာတိုက်အမှတ်</Account_Setting_PO_box>
+    <Account_Setting_ref_ID>လွှဲပြောင်းပေးသူID</Account_Setting_ref_ID>
+    <Account_Setting_JJU896>JJU896</Account_Setting_JJU896>
+    <Account_Setting_share_link_ivite_other_join_drs>DRSပလက်ဖောင်းသို့အခြားအသုံးပြုသူများကိုဖိတ်ကြားပါ</Account_Setting_share_link_ivite_other_join_drs>
+    <Account_Setting_change_Photo>ပုံပြောင်းမည်</Account_Setting_change_Photo>
+    <Account_Setting_choost_exist_photo>ပုံရွေးချယ်မည်</Account_Setting_choost_exist_photo>
+    <Account_Setting_take_photo>ပုံရိုက်ယူမည်</Account_Setting_take_photo>
+    <Account_Setting_cancel>ပယ်ဖျက်မည်</Account_Setting_cancel>
+    <Account_Setting_Profile>အသေးစိတ်အချက်အလက်များ</Account_Setting_Profile>
+    <Account_Setting_Bank>ဘဏ်အချက်အလက်အသေးစိတ်</Account_Setting_Bank>
+    <Account_Setting_Ref>လွှဲပြောင်းပေးသူCode</Account_Setting_Ref>
+    <Account_Setting_Update>အဆင့်မြင့်တင်မည်</Account_Setting_Update>
+    
+    <!-- Withdrawal Details -->
+    
+    <Withdrawal_Details_Title>ငွေထုတ်ခြင်းအသေးစိတ်</Withdrawal_Details_Title>
+    <Withdrawal_Details_withdraw_req_submit>ငွေထုတ်ယူခြင်းတောင်းခံလွှာတင်သွင်းခဲ့သည်</Withdrawal_Details_withdraw_req_submit>
+    <Withdrawal_Details_amount>ငွေပမာဏ</Withdrawal_Details_amount>
+    <Withdrawal_Details_date_time>နေ့စွဲနှင့်အချိန်</Withdrawal_Details_date_time>
+    <Withdrawal_Details_trans_ID>ငွေသွင်းငွေထုတ်ID</Withdrawal_Details_trans_ID>
+    <!-- Referral Rewards -->
+    
+    
+    <Referral_Rewards_ref_rewards>လွှဲပြောင်းပေးခြင်းဆုများ</Referral_Rewards_ref_rewards>
+    
+    <!-- Withdrawal -->
+    
+    <Withdrawal>ငွေထုတ်ခြင်း</Withdrawal>
+    <Withdrawal_withdraw_wallet>ပိုက်ဆံအိတ်သို့ငွေထုတ်ယူမည်</Withdrawal_withdraw_wallet>
+    <Withdrawal_Acc_Bal>အကောင့်လက်ကျန်ငွေ</Withdrawal_Acc_Bal>
+    <Withdrawal_Enter_amount>ငွေပမာဏရိုက်ထည့်ပါ</Withdrawal_Enter_amount>
+    <Withdrawal_Withdraw_to_link_bank>ချိတ်ဆက်ဘဏ်သိုငွေထုတ်ယူမည်</Withdrawal_Withdraw_to_link_bank>
+    <Withdrawal_Terms_and_Conditions>စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</Withdrawal_Terms_and_Conditions>
+    <Withdrawal_Terms_and_Conditions1>၁။</Withdrawal_Terms_and_Conditions1>
+    <Withdrawal_Terms_and_Conditions11>အနည်းဆုံးထုတ်ယူနိုင်သောပမာဏ </Withdrawal_Terms_and_Conditions11>
+    <Withdrawal_Terms_and_Conditions2>၂။</Withdrawal_Terms_and_Conditions2>
+    <Withdrawal_Terms_and_Conditions22>ထုတ်ယူငွေပမာဏ၏ % သည်အပြောင်းအလဲအတွက်အခကြေးငွေအဖြစ်ငွေပေးချေမှုတစ်ခုချင်းစီအတွက်ကောက်ခံပါမည်။</Withdrawal_Terms_and_Conditions22>
+    <Withdrawal_Terms_and_Conditions3>၃။</Withdrawal_Terms_and_Conditions3>
+    <Withdrawal_Terms_and_Conditions33>ငွေထုတ်ယူရန်တောင်းဆိုမှုများကိုလတစ်လ၏(၃)ရက်၊ (၁၃)ရက်နှင့် (၂၃)ရက်တို့တွင်သာပြုလုပ်မည်ဖြစ်သည်။ ပြင်ဆင်မှုကာလမှာ(၅)ရက်လိုအပ်ပါသည်။</Withdrawal_Terms_and_Conditions33>
+    
+    <Withdrawal_CONFIRM>အတည်ပြုသည်</Withdrawal_CONFIRM>
+    <Withdrawal_WITHDRAWAL_HISTORY>ငွေထုတ်ခြင်းမှတ်တမ်း</Withdrawal_WITHDRAWAL_HISTORY>
+    <Withdrawal_Request_Fail_MSG>တောင်းဆိုမှုမအောင်မြင်ပါ၊ သင်တောင်းဆိုထားသောငွေပမာဏသည်လက်ကျန်ငွေထက်ပိုပါသည်</Withdrawal_Request_Fail_MSG>
+    
+    
+    <Withdrawal_withdraw_list_Title>ငွေထုတ်ယူခြင်းမှတ်တမ်း</Withdrawal_withdraw_list_Title>
+    
+    <Withdrawal_withdraw_search>ငါငွေထုတ်သမိုင်းရှာနေတာပါ...</Withdrawal_withdraw_search>
+    
+    
+    
+    <!-- Withdrawal Information -->
+    <Withdrawal_Information_Withdrawal_Inf>ငွေထုတ်ယူခြင်းအချက်အလက်</Withdrawal_Information_Withdrawal_Inf>
+    <Withdrawal_Information_Withdrawal_Req>ငွေထုတ်ယူခြင်းတောင်းခံလွှာတင်သွင်းခဲ့သည်</Withdrawal_Information_Withdrawal_Req>
+    <Withdrawal_Information_transferred_money_from_merchant_wallet_to_ur_bank_account>ကုန်၏ပိုက်ဆံအိတ်မှသင်၏ဘဏ်အကောင့်သို့ငွေလွှဲပြောင်းရန်သင်တောင်းဆိုထားသည်</Withdrawal_Information_transferred_money_from_merchant_wallet_to_ur_bank_account>
+    <Withdrawal_Information_Wallet_bal>ပိုက်ဆံအိတ်လက်ကျန်</Withdrawal_Information_Wallet_bal>
+    <Withdrawal_Information_Ref_no>ရည်ညွန်းနံပါတ်</Withdrawal_Information_Ref_no>
+    
+    
+    
+    <!-- Top Up Wallet -->
+    <Top_Up_Wallet_Title>ပိုက်ဆံအိတ်ငွေဖြည့်မည်</Top_Up_Wallet_Title>
+    
+    
+<!--    <Top_Up_Wallet_enter_ur_pre_amt>သင်နှစ်သက်သောငွေပမာဏကိုထည့်ပါ</Top_Up_Wallet_enter_ur_pre_amt>-->
+    <!-- Changes by Praveen -->
+
+    <Top_Up_Wallet_enter_ur_pre_amt>သင်နှစ်သက်သောငွေပမာဏကိုထည့်ပါ</Top_Up_Wallet_enter_ur_pre_amt>
+    <Top_Up_Wallet_History_Title>ပိုက်ဆံအိတ်သမိုင်း</Top_Up_Wallet_History_Title>
+    <common_no_record>မှတ်တမ်းမရှိသေးပါ</common_no_record>
+    <Withdrawal_To_Wallet>ကျွန်ုပ်၏ DRS ပိုက်ဆံအိတ်</Withdrawal_To_Wallet>
+
+    <!-- Changes by Praveen -->
+    
+    <Top_Up_Wallet_min_top_amt>အနည်းဆုံးငွေဖြည့်ရန်လိုအပ်သည့်ပမာဏ</Top_Up_Wallet_min_top_amt>
+    <Top_Up_Wallet_select_payment>ငွေပေးချေမှုကိုရွေးပါ</Top_Up_Wallet_select_payment>
+    <Top_Up_Wallet_offline_bank_transfer>ဘဏ်မှငွေလွှဲမည်</Top_Up_Wallet_offline_bank_transfer>
+    <Top_Up_Wallet_HSBC_bank>KBZဘဏ်</Top_Up_Wallet_HSBC_bank>
+    <Top_Up_Wallet_upload_receipt>ငွေလွှဲပြေစာတင်ပြပါ</Top_Up_Wallet_upload_receipt>
+    <Top_Up_Wallet_upload>တင်မည်</Top_Up_Wallet_upload>
+    <Top_Up_Wallet_visa_master>VISA / MASTER</Top_Up_Wallet_visa_master>
+    <Top_Up_Wallet_ok_dollar>OK$ဖြင့်လွှဲမည်</Top_Up_Wallet_ok_dollar>
+    <Top_Up_Wallet_submit>တင်သွင်းမည်</Top_Up_Wallet_submit>
+    <Top_Up_Wallet_wallet>ပိုက်ဆံအိတ်မှတ်တမ်း</Top_Up_Wallet_wallet>
+    
+    <!-- Wallet History -->
+    <Wallet_History_look_for>ငါပိုက်ဆံအိတ်သမိုင်းရှာနေတာ ...</Wallet_History_look_for>
+    
+    <!-- Invite and Earn -->
+    <Invite_and_Earn_u_have_earn>သင်ဝင်ငွေရပြီ</Invite_and_Earn_u_have_earn>
+    <Invite_and_Earn_for_now>ယခုပင်</Invite_and_Earn_for_now>
+    <Invite_and_Earn_ur_invite_code>သင်၏ဖြန့်ဝေCode</Invite_and_Earn_ur_invite_code>
+    <Invite_and_Earn_share_via_watsap>WhatsAppဖြင့်ဖြန့်ဝေမည်</Invite_and_Earn_share_via_watsap>
+    <Invite_and_Earn_more>ပိုမို</Invite_and_Earn_more>
+    <Invite_and_Earn_commission_history>ခွဲဝေရရှိသည့်ငွေမှတ်တမ်း</Invite_and_Earn_commission_history>
+    <Invite_and_Earn_view>ဝင်ငွေရမြင်ကွင်း</Invite_and_Earn_view>
+    <Invite_and_Earn_withdrawal>ငွေထုတ်ခြင်း</Invite_and_Earn_withdrawal>
+    
+    <!--Transaction History -->
+    <Transaction_History>ငွေသွင်းငွေထုတ်မှတ်တမ်း</Transaction_History>
+    <Transaction_Hitory_Im_looking_for>ကျွန်ုပ်ရှာနေသောနေ့စွဲ...</Transaction_Hitory_Im_looking_for>
+    <Transaction_History_All_Payment>ငွေပေးချေမှုအားလုံး</Transaction_History_All_Payment>
+    <Transaction_History_Wallet>ပိုက်ဆံအိတ်</Transaction_History_Wallet>
+    <Transaction_History_Cash>ငွေသား</Transaction_History_Cash>
+    <Transaction_History_Transaction_ID>ငွေသွင်းငွေထုတ်ID</Transaction_History_Transaction_ID>
+    <Transaction_History_Successful>အောင်မြင်ပါသည်</Transaction_History_Successful>
+    <Transaction_History_Pending>ဆိုင်းငံ့ထားသည်</Transaction_History_Pending>
+    <Transaction_History_Unsuccessful>မအောင်မြင်ပါ</Transaction_History_Unsuccessful>
+    
+    <!-- Customer _Support -->
+    <Customer_Support_Im_looking_for>ငါဖောက်သည်ပံ့ပိုးမှုရှာနေတာပါ ...</Customer_Support_Im_looking_for >
+    <Customer_Support_MSG>MSG</Customer_Support_MSG>
+    <Customer_Support_Last_message>နောက်ဆုံးရစာ...</Customer_Support_Last_message>
+    
+    <!-- New Message -->
+    <New_Message>အသစ်ပို့စာ</New_Message>
+    <New_Message_To_Support_Centre>ထောက်ပံ့ရေးစင်တာသို့ </New_Message_To_Support_Centre>
+    <New_Message_Please_type_a_message>ကျေးဇူးပြု၍စာရေးပေးပါ...</New_Message_Please_type_a_message>
+    <New_Message_Send>ပို့မည်</New_Message_Send>
+    <New_Message_Choose_File>ဖိုင်ရွေးချယ်မည်</New_Message_Choose_File>
+    <New_Message_No_ﬁle_chosen>ဖိုင်မရွေးရသေးပါ</New_Message_No_ﬁle_chosen>
+    <Title_Cancel>ဖျက်သိမ်းမည်</Title_Cancel>
+    
+    <New_Message_to_support_Title>စာတိုအသေးစိတ်</New_Message_to_support_Title>
+    <!-- About Us -->
+    <About>ကျွန်ုပ်တို့အကြောင်း</About>
+    <!-- Our Merchants -->
+    <Our_Merchants_Title>ကျွန်ုပ်တို့၏ကုန်သည်များ</Our_Merchants_Title>
+    <Our_Merchants_our_near_merchant>အနီးအနားတွင်ရှိသောကုန်သည်များ</Our_Merchants_our_near_merchant>
+    <Our_Merchants_look_for>ကျွန်ုပ်ရှာနေသောလုပ်ငန်း</Our_Merchants_look_for>
+    <!-- Category Details -->
+    <Our_Merchants_look_for_category_detail>ကျွန်ုပ်ရှာနေသောဆိုင်</Our_Merchants_look_for_category_detail>
+    <!-- Merchant Shop Details -->
+    <Merchant_Details_location>နေရာ</Merchant_Details_location>
+    <Merchant_Details_open_hrs>ဆိုင်ဖွင့်ချိန်</Merchant_Details_open_hrs>
+    <Merchant_Details_call>ဖုန်းခေါ်မည်</Merchant_Details_call>
+    <Merchant_Details_direction>လမ်းညွန်ပါ</Merchant_Details_direction>
+    <Merchant_Details_review>ပြန်လည်ကြည့်ရှုခြင်း</Merchant_Details_review>
+    <Merchant_Details_off>ပိတ်ရက်များ</Merchant_Details_off>
+    <Setting_notification>အသိပေးချက်များ</Setting_notification>
+
+    <!-- Review -->
+    <Review_title>ပြန်လည်ကြည့်ရှုခြင်း</Review_title>
+    <Review_price>နှုန်းထားများ</Review_price>
+    <Review_under>အောက်</Review_under>
+    <Review_over>အထက်</Review_over>
+    <Review_love_rating>ကြိုက်နှစ်သက်မှုပြ</Review_love_rating>
+    <Review_comments>ထင်မြင်ချက်ပေးမည်</Review_comments>
+    <Review_type_here>ဒီမှာရေးပါ...</Review_type_here>
+    
+    <!-- Scann and pay -->
+    <scan_code_scan_code>Codeကိုစကင်ဖတ်ပါ</scan_code_scan_code>
+    <scan_code_move_camera_see_QR_code_confirm_payment>ကင်မရာကိုရွှေ့ပါ QR ကုဒ်ကိုဖတ်ပြီးငွေပေးချေမှုကိုအတည်ပြုပါ</scan_code_move_camera_see_QR_code_confirm_payment>
+    <!-- Payment Details -->
+    <scan_code_payment_detail>ငွေပေးချေမှုအသေးစိတ်</scan_code_payment_detail>
+    <scan_code_select_payment>ငွေပေးချေမှုကိုရွေးပါ</scan_code_select_payment>
+    <scan_code_cash>ငွေသား</scan_code_cash>
+    <scan_code_wallet>ပိုက်ဆံအိတ်</scan_code_wallet>
+    <scan_code_amount>ငွေပမာဏ</scan_code_amount>
+    <scan_code_rebate_entitled>ပြန်ရငွေ</scan_code_rebate_entitled>
+    <scan_code_slide_rebate_more>ပိုမိုငွေပြန်ရဖို့ဘားကိုဆွဲပါ</scan_code_slide_rebate_more>
+    <scan_code_ur_voucher_pts>သင်၏ဘောက်ချာပွိုင့်များ</scan_code_ur_voucher_pts>
+    <scan_code_pts_avaliable>ရရှိနိုင်သောပွိုင့်များ</scan_code_pts_avaliable>
+    <scan_code_submit>တင်သွင်းမည်</scan_code_submit>
+    <!-- Verify Merchant Pin -->
+    <scan_code_done_title>ကုန်သည်၏Pinကိုစစ်ဆေးပါ</scan_code_done_title>
+    <scan_code_verify_code>codesကိုစစ်ဆေးခြင်း</scan_code_verify_code>
+    <scan_code_ask_merchant_key_in_payment_pin_code>ကျေးဇူးပြု၍ကုန်ရောင်းသူထံမှငွေပေးချေရန်Pin Codeတောင်းပါ</scan_code_ask_merchant_key_in_payment_pin_code>
+    <scan_code_done>ပြီးပြီ</scan_code_done>
+    <!-- Transaction Details -->
+    <scan_code_transcation_detail>ငွေသွင်းငွေထုတ်အသေးစိတ်</scan_code_transcation_detail>
+    <scan_code_payment_success>ငွေပေးချေမှုအောင်မြင်သည်</scan_code_payment_success>
+    <scan_code_total>စုစုပေါင်း</scan_code_total>
+    <scan_code_merchant_name>ကုန်သည်အမည်</scan_code_merchant_name>
+    <scan_code_trans_ID>ငွေသွင်းငွေထုတ်ID</scan_code_trans_ID>
+    <scan_code_User_ID>အသုံးပြုသူID</scan_code_User_ID>
+    <scan_code_rebate_entitled>ပြန်ရငွေ</scan_code_rebate_entitled>
+    <scan_code_payment_unsuccess>ငွေပေးချေမှုမအောင်မြင်ပါ</scan_code_payment_unsuccess>
+    <scan_code_merchant_insufficient_credit_unable_proceed>ကုန်သည်၏ငွေမလုံလောက်သောကြောင့် ဆက်လက်မလုပ်ဆောင်နိုင်ပါ</scan_code_merchant_insufficient_credit_unable_proceed>
+    <scan_code_insufficient_wallet_credit_unable_proceed>ပိုက်ဆံအိတ်ငွေမလုံလောက်လောက်သောကြောင့် ဆက်လက်မလုပ်ဆောင်နိုင်ပါ</scan_code_insufficient_wallet_credit_unable_proceed>
+    <scan_code_date_time>နေ့စွဲနှင့်အချိန်</scan_code_date_time>
+    
+    
+    <!-- Top Up Voucher Point -->
+    <Top_Up_Voucher_Point_voucher_pt_title>ဘောက်ချာပွိုင့်ဝယ်မည်</Top_Up_Voucher_Point_voucher_pt_title>
+    <Top_Up_Voucher_Point_voucher_pt_payment>ငွေပေးချေမှုကိုရွေးပါ</Top_Up_Voucher_Point_voucher_pt_payment>
+    <Top_Up_Voucher_Point_voucher_ok_dollar>OK$ဖြင့်ပေးမည်</Top_Up_Voucher_Point_voucher_ok_dollar>
+    <Top_Up_Voucher_Point_voucher_submit>တင်သွင်းမည်</Top_Up_Voucher_Point_voucher_submit>
+    <Top_Up_Voucher_Point_voucher_pt_history>ဘောက်ချာပွိုင့်မှတ်တမ်း</Top_Up_Voucher_Point_voucher_pt_history>
+    
+    <!-- Voucher Point History -->
+    
+    
+    <Top_Up_Voucher_Point_history_title>ဘောက်ချာသမိုင်း</Top_Up_Voucher_Point_history_title>
+    <Top_Up_Voucher_Point_history_Im_looking_for>ငါ Voucher ပွိုင့်သမိုင်းကိုရှာနေပါတယ်</Top_Up_Voucher_Point_history_Im_looking_for>
+
+     <Terms_and_Conditions_Title>စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</Terms_and_Conditions_Title>
+     <Agreement_Title>သဘောတူညီချက်</Agreement_Title>
+     <common_New_App_version>DRSအသုံးပြုသူအက်ပလီကေးရှင်းအသစ်ကိုရနိုင်ပါသည်။ ကျေးဇူးပြု၍အဆင့်မြှင့်တင်ပါ</common_New_App_version>
+         <common_invalid_token>ဆက်သွယ်မှုလက္ခဏာမမှန်ကန်ပါ</common_invalid_token>
+        <common_no_record>မှတ်တမ်းမရှိသေးပါ</common_no_record>
+       
+     
+</resource>
+

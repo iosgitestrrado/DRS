@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <!-- App Version -->
+    <user_app_version>ဗားရှင်း</user_app_version>
+    <!-- Validate Mobile Number Keys -->
+    <user_enter_ur_pass>သင်၏စကားဝှက်ကိုရိုက်ထည့်ပါ</user_enter_ur_pass>
+    <user_contry_required>နိုင်ငံကုဒ်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_contry_required>
+    <user_ph_required>ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_ph_required>
+    <user_ph_btween_7_13>ဖုန်းနံပါတ်သည်ဂဏန်း ၇ မှ ၁၃ အထိကြားရှိရမည်</user_ph_btween_7_13>
+    <user_ph_must_no>ဖုန်းနံပါတ်သည်မှန်ကန်သောဖုန်းနံပါတ်တစ်ခုဖြစ်ရမည်။</user_ph_must_no>
+    
+    <!--  Resend Otp Keys -->
+    <user_OTP_sent_ph_no_reset_otp_title>လျှို့ဝှက်နံပါတ်ကို OTP မှသင်၏မှတ်ပုံတင်ထားသောဖုန်းနံပါတ်သို့ပို့ပါ။</user_OTP_sent_ph_no_reset_otp_title>
+    <user_OTP_sent_ph_no_reset_otp>သင်၏မှတ်ပုံတင်ထားသောဖုန်းနံပါတ်သို့ OTP အသစ်ပို့သည်။</user_OTP_sent_ph_no_reset_otp>
+    <user_country_required_reset_otp>နိုင်ငံကုဒ်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_country_required_reset_otp>
+    <user_ph_required_reset_otp>ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_ph_required_reset_otp>
+    <user_ph_btween_7_13_reset_otp>ဖုန်းနံပါတ်သည်ဂဏန်း ၇ မှ ၁၃ အထိကြားရှိရမည်</user_ph_btween_7_13_reset_otp>
+    <user_ph_must_no_reset_otp>ဖုန်းနံပါတ်ကနံပါတ်ဖြစ်ရမယ်</user_ph_must_no_reset_otp>
+    
+    <!--  Otp Verification -->
+    <user_OTP_sent_ph_no_reset_otp_title>Otp ကိုအောင်အောင်မြင်မြင်အတည်ပြုပြီးပါ၊ သင့်စကားဝှက်ကိုပြန်လည်သတ်မှတ်ပါ</user_OTP_sent_ph_no_reset_otp_title>
+    <user_otp_verified_success_otp>Otp ကိုအောင်အောင်မြင်မြင်အတည်ပြုပြီး ကျေးဇူးပြု၍ သင်၏စကားဝှက်ကိုပြန်လည်သတ်မှတ်ပါ။</user_otp_verified_success_otp>
+    <user_otp_enter_incorrect_otp>ရိုက်ထည့်လိုက်သော OTP သည်မမှန်ကန်ပါ။ နောက်တဖန်ကြိုးစားပါသို့မဟုတ် OTP ပြန်လည်ပေးပို့ပါ။</user_otp_enter_incorrect_otp>
+    
+    <user_otp_required_otp>အဆိုပါ otp လယ်ကွင်းလိုအပ်ပါသည်</user_otp_required_otp>
+    <user_country_required_otp>နိုင်ငံကုဒ်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_country_required_otp>
+    <user_ph_required_otp>ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_ph_required_otp>
+    <user_ph_btween_7_13_otp>ဖုန်းနံပါတ်သည်ဂဏန်း ၇ မှ ၁၃ အထိကြားရှိရမည်</user_ph_btween_7_13_otp>
+    <user_ph_must_no_otp>ဖုန်းနံပါတ်ကနံပါတ်ဖြစ်ရမယ်</user_ph_must_no_otp>
+    <user_cannot_find_user_otp>ဒီဖုန်းနံပါတ်ပါတဲ့သုံးစွဲသူကိုရှာမရပါ</user_cannot_find_user_otp>
+    <user_otp_number>အဆိုပါ otp နံပါတ်ဖြစ်ရပါမည်</user_otp_number>
+    <!--  Reset Password -->
+    <user_pass_reset_success_reset_pwd>သင်၏စကားဝှက်ကိုအောင်မြင်စွာပြန်လည်သတ်မှတ်ပြီးဖြစ်သည်</user_pass_reset_success_reset_pwd>
+    <user_invalid_cred_reset_pwd>မမှန်ကန်သောအထောက်အထားများ</user_invalid_cred_reset_pwd>
+    <user_ph_required_required_reset_pwd>ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_ph_required_required_reset_pwd>
+    <user_country_required_reset_pwd>နိုင်ငံကုဒ်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_country_required_reset_pwd>
+    <!--  Sign In -->
+    <user_login_success_signin>Login အောင်မြင်ပါပြီ</user_login_success_signin>
+    <user_ur_acc_not_active_signin>သင့်အကောင့်သည်အသက်မဝင်သေးပါ။ activation အတွက်ဆက်သွယ်ပါ</user_ur_acc_not_active_signin>
+    <user_invalid_cred_signin>မမှန်ကန်သောအထောက်အထားများ</user_invalid_cred_signin>
+    <user_country_required_signin>နိုင်ငံကုဒ်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_country_required_signin>
+    <user_pass_required_signin>လျှို့ဝှက်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_pass_required_signin>
+    <user_ph_required_signin>ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_ph_required_signin>
+    <user_pass_must_6_char_signin>စကားဝှက်မှာအနည်းဆုံးအက္ခရာ ၆ လုံးဖြစ်ရမည်</user_pass_must_6_char_signin>
+    <!--  Sign Up -->
+    <user_reg_success_signup>မှတ်ပုံတင်ခြင်းအောင်မြင်ပါသည် ကျေးဇူးပြုပြီးသင့်အကောင့်ကိုဝင်ပါ</user_reg_success_signup>
+    <user_ph_required_signup>ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_ph_required_signup>
+    <user_country_required_signup>နိုင်ငံကုဒ်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_country_required_signup>
+    <user_cust_name_required_signup>ဖောက်သည်အမည်ကွက်လပ်ဖြည့်ပါ</user_cust_name_required_signup>
+    <user_pass_required_signup>လျှို့ဝှက်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</user_pass_required_signup>
+    <user_pass_must_6_char_signup>စကားဝှက်မှာအနည်းဆုံးအက္ခရာ ၆ လုံးဖြစ်ရမည်</user_pass_must_6_char_signup>
+    <user_ph_btween_7_12_signup>ဖုန်းနံပါတ်သည်ဂဏန်း ၇ လုံးမှ ၁၂ လုံးအကြားရှိရမည်</user_ph_btween_7_12_signup>
+    <user_ref_id_must_valid_signup>လွှဲပြောင်းအိုင်ဒီတရားဝင်ဖြစ်ရမည်</user_ref_id_must_valid_signup>
+    
+    <!-- Update Account Info -->
+    <user_invalid_access_update_info>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_update_info>
+    <user_acc_info_update_success>အကောင့်အချက်အလက်အောင်မြင်စွာအဆင့်မြှင့်တင်</user_acc_info_update_success>
+    <user_email_already_taken>ဒီအီးမေးလ်ပြီးသွားပါပြီ</user_email_already_taken>
+    <user_firstname_required>ပထမအမည်ကွက်လပ်ဖြည့်ရန်လိုအပ်သည်</user_firstname_required>
+    <user_lastname_required>နောက်ဆုံးအမည်ကွက်လပ်ဖြည့်ပါ</user_lastname_required>
+
+    
+    <user_age_required>အသက်လယ်ကွက်လိုအပ်သည်</user_age_required>
+    <user_gender_required>ကျား၊ မရေးရာနယ်ပယ်လိုအပ်သည်</user_gender_required>
+    <user_email_required>အီးမေးလ်အကွက်လိုအပ်ပါသည်</user_email_required>
+    <user_id_required>အိုင်ဒီကွက်လပ်လိုအပ်သည်</user_id_required>
+    <user_address_required>လိပ်စာကွက်လပ်ဖြည့်ပါ</user_address_required>
+    <user_country_required>တိုင်းပြည်ကွက်လပ်ဖြည့်ရန်လိုအပ်သည်</user_country_required>
+    <user_bank_name_required>ဘဏ်အမည်ကွက်လပ်ဖြည့်ရန်လိုအပ်သည်</user_bank_name_required>
+    <user_acc_holder_required_update_info>အကောင့်ပိုင်ရှင်အကွက်လိုအပ်သည်</user_acc_holder_required_update_info>
+    <user_acc_no_required_update_info>အကောင့်နံပါတ်ကွက်လပ်လိုအပ်သည်</user_acc_no_required_update_info>
+    <user_swift_code_required_update_info>ဆွစ်ဖ်ကုဒ်နံပါတ်လိုအပ်သည်</user_swift_code_required_update_info>
+    <user_bank_address_required_update_info>ဘဏ်လိပ်စာကွက်လပ်လိုအပ်သည်d</user_bank_address_required_update_info>
+    <user_pass_must_6_char_update_info>စကားဝှက်မှာအနည်းဆုံးအက္ခရာ ၆ လုံးဖြစ်ရမည်</user_pass_must_6_char_update_info>
+    
+    <!-- Wallet Topup Payment -->
+    <user_invalid_access_wallet>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_wallet>
+    <user_topup_success>ပိုက်ဆံအိတ် topup အောင်မြင်မှု, ပမာဏကိုစိစစ်အတည်ပြုပြီးနောက်ကဆက်ပြောသည်လိမ့်မည်</user_topup_success>
+    <user_finish_payment_ok_dollar>ကျေးဇူးပြုပြီး okdollar ဖြင့်ငွေပေးချေပါ</user_finish_payment_ok_dollar>
+    <user_bank_receipt_required_wallet>ဘဏ်ငွေလက်ခံဖြတ်ပိုင်းလိုအပ်ပါသည်</user_bank_receipt_required_wallet>
+    <user_amount_required_wallet>ငွေပမာဏကိုလယ်လိုအပ်ပါသည်</user_amount_required_wallet>
+    <user_payment_required>ငွေပေးချေမှုအမျိုးအစားကိုဖြည့်ပါ</user_payment_required>
+    
+    <!--  Withdrawal Request -->
+    <user_invalid_access_withdrawal>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_withdrawal>
+    <user_withdrawal_req_submit>ထုတ်ယူခြင်းတောင်းခံလွှာတင်သွင်းခဲ့သည်</user_withdrawal_req_submit>
+    <user_ref_failed_amt_more_bal>တောင်းဆိုမှုမအောင်မြင်ပါ၊ သင်၏တောင်းဆိုသောငွေပမာဏသည်လက်ကျန်ငွေထက်ပိုပါသည်</user_ref_failed_amt_more_bal>
+    <user_amount_required_withdrawal>ငွေပမာဏကိုလယ်လိုအပ်ပါသည်</user_amount_required_withdrawal>
+    <user_withdrawal_required>ထုတ်ယူမည့်အမျိုးအစားဖြည့်ရန်လိုအပ်သည်</user_withdrawal_required>
+    
+    <!--  Payment -->
+    <user_invalid_access_payment>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_payment>
+    <user_success_trans>success_transcation</user_success_trans>
+    <user_merch_id_must_no_payment>ကုန်သည်အိုင်ဒီသည်နံပါတ်ဖြစ်ရမည်</user_merch_id_must_no_payment>
+    <user_amount_required_payment>ငွေပမာဏကိုလယ်လိုအပ်ပါသည်။</user_amount_required_payment>
+    <user_pay_code_required>ငွေပေးချေမှုစနစ်နေရာလပ်လိုအပ်သည်</user_pay_code_required>
+    <user_payment_pin_required>ငွေပေးချေမှု pin ကွက်လပ်လိုအပ်သည်</user_payment_pin_required>
+    <user_pay_pin_code_mismatch>ငွေပေးချေခြင်း Pin Code ကိုမတိုက်ဆိုင်</user_pay_pin_code_mismatch>
+    <user_file_trans>မအောင်မြင်ဘူး</user_file_trans>
+    <user_merch_insufficient_credit>ကုန်သည်လုံလောက်သောချေးငွေ</user_merch_insufficient_credit>
+    <user_try_later>တောင်းပန်ပါတယ်၊ တစ်ခုခုမှားယွင်းသွားပါတယ်။ ကျေးဇူးပြု၍ ထပ်မံကြိုးစားပါ</user_try_later>
+    
+    
+    
+    
+    
+    
+    <!-- Update Profile Pic -->
+    <user_invalid_access_update_profile>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_update_profile>
+    <user_pro_ing_update_success>ပရိုဖိုင်ပုံကိုအောင်မြင်စွာအဆင့်မြှင့်တင်</user_pro_ing_update_success>
+    <user_select_any_img>ကျေးဇူးပြုပြီးဘယ်ပုံမဆိုရွေးပါ</user_select_any_img>
+    <!-- Update General Info -->
+    <user_invalid_access_gen_info>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_gen_info>
+    <user_acc_onfo_update_success>အကောင့်အချက်အလက်အောင်မြင်စွာအဆင့်မြှင့်တင်</user_acc_onfo_update_success>
+    <!-- Update Account Bank info -->
+    <user_invalid_access_update_bank>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_update_bank>
+    <user_bank_info_update_success>ဘဏ်အချက်အလက်အောင်မြင်စွာအဆင့်မြှင့်တင်</user_bank_info_update_success>
+    <user_bank_required>ဘဏ်အမည်ကွက်လပ်ဖြည့်ရန်လိုအပ်သည်</user_bank_required>
+    <user_acc_holder_required_update_bank>အကောင့်ပိုင်ရှင်အကွက်လိုအပ်သည်</user_acc_holder_required_update_bank>
+    <user_acc_no_required_update_bank>အကောင့်နံပါတ်ကွက်လပ်လိုအပ်သည်</user_acc_no_required_update_bank>
+    <user_swift_code_required_update_bank>ဆွစ်ဖ်ကုဒ်နံပါတ်လိုအပ်သည်</user_swift_code_required_update_bank>
+    <user_bank_addr_required>ဘဏ်လိပ်စာကွက်လပ်ဖြည့်ပါ</user_bank_addr_required>
+    <!--  Account info -->
+    <user_invalid_access_acc_info>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</user_invalid_access_acc_info>
+    <user_acc_info_title>အကောင့်အချက်အလက်</user_acc_info_title>
+    <!--  Account info -->
+    
+     <common_New_App_version>DRS အသုံးပြုသူအက်ပလီကေးရှင်းသစ်အက်ပလီကေးရှင်းတွင်ရနိုင်သည်။ ကျေးဇူးပြု၍ မွမ်းမံပါ</common_New_App_version>
+     <common_no_record>မှတ်တမ်းမရှိပါ</common_no_record>
+      <common_invalid_token>မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ</common_invalid_token>
+      
+     
+</resource>
+

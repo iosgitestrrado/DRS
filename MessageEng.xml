@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <!-- App Version -->
+    <user_app_version>version</user_app_version>
+    <!-- Validate Mobile Number Keys -->
+    <user_enter_ur_pass>Enter your password</user_enter_ur_pass>
+    <user_contry_required>The country code field is required</user_contry_required>
+    <user_ph_required>The phone number field is required</user_ph_required>
+    <user_ph_btween_7_13>The phone number must be between 7 and 13 digits</user_ph_btween_7_13>
+    <user_ph_must_no>The phone number must be a valid phone number.</user_ph_must_no>
+    <!--  Resend Otp Keys -->
+    
+    <user_OTP_sent_ph_no_reset_otp>New OTP sent to your registered phone number!</user_OTP_sent_ph_no_reset_otp>
+    <user_country_required_reset_otp>The country code field is required</user_country_required_reset_otp>
+    <user_ph_required_reset_otp>The phone number field is required</user_ph_required_reset_otp>
+    <user_ph_btween_7_13_reset_otp>The phone number must be between 7 and 13 digits</user_ph_btween_7_13_reset_otp>
+    <user_ph_must_no_reset_otp>The phone number must be a number</user_ph_must_no_reset_otp>
+    <!--  Otp Verification -->
+    <user_OTP_sent_ph_no_reset_otp_title>Reset password OTP sent to your registered phone number!</user_OTP_sent_ph_no_reset_otp_title>
+    <user_otp_verified_success_otp>Otp verified successfully please reset your password!</user_otp_verified_success_otp>
+    <user_otp_enter_incorrect_otp>The OTP entered is incorrect. Please try again or try resend the OTP.</user_otp_enter_incorrect_otp>
+    <user_otp_required_otp>The otp field is required.</user_otp_required_otp>
+    <user_country_required_otp>The country code field is required.</user_country_required_otp>
+    <user_ph_required_otp>The phone number field is required.</user_ph_required_otp>
+    <user_ph_btween_7_13_otp>The phone number must be between 7 and 13 digits.</user_ph_btween_7_13_otp>
+    <user_ph_must_no_otp>The phone number must be a number.</user_ph_must_no_otp>
+    <user_cannot_find_user_otp>We can't find a user with that phone number.</user_cannot_find_user_otp>
+    <user_otp_number>The otp must be a number.</user_otp_number>
+    <!--  Reset Password -->
+    <user_pass_reset_success_reset_pwd>Your password has been reset successfully.</user_pass_reset_success_reset_pwd>
+    <user_invalid_cred_reset_pwd>Invalid credientials</user_invalid_cred_reset_pwd>
+    <user_ph_required_required_reset_pwd>The phone number field is required.</user_ph_required_required_reset_pwd>
+    <user_country_required_reset_pwd>The country code field is required.</user_country_required_reset_pwd>
+    
+    <!--  Sign In -->
+    <user_login_success_signin>Login successfull</user_login_success_signin>
+    <user_ur_acc_not_active_signin>Your account not activated yet.Please contact admin for activation</user_ur_acc_not_active_signin>
+    <user_invalid_cred_signin>Invalid credientials</user_invalid_cred_signin>
+    <user_country_required_signin>The country code field is required</user_country_required_signin>
+    <user_pass_required_signin>The password field is required</user_pass_required_signin>
+    <user_ph_required_signin>The phone number field is required</user_ph_required_signin>
+    <user_pass_must_6_char_signin>The password must be at least 6 characters</user_pass_must_6_char_signin>
+    <!--  Sign Up -->
+    <user_reg_success_signup>Registration Successful.Please signin your account</user_reg_success_signup>
+    <user_ph_required_signup>The phone number field is required</user_ph_required_signup>
+    <user_country_required_signup>The country code field is required</user_country_required_signup>
+    <user_cust_name_required_signup>The customer name field is required.</user_cust_name_required_signup>
+    <user_pass_required_signup>The password field is required</user_pass_required_signup>
+    <user_pass_must_6_char_signup>The password must be at least 6 characters</user_pass_must_6_char_signup>
+    <user_ph_btween_7_12_signup>The phone number must be between 7 and 12 digits</user_ph_btween_7_12_signup>
+    <user_ref_id_must_valid_signup>The referral id must be valid</user_ref_id_must_valid_signup>
+    
+    <!-- Update Account Info -->
+    <user_invalid_access_update_info>Invalid access token</user_invalid_access_update_info>
+    <user_acc_info_update_success>Account Info Updated Successfully.</user_acc_info_update_success>
+    <user_email_already_taken>The email has already been taken</user_email_already_taken>
+    <user_firstname_required>The first name field is required</user_firstname_required>
+    <user_lastname_required>The last name field is required</user_lastname_required>
+    <user_Password_required>The password field is required</user_Password_required>
+
+    <user_age_required>The age field is required</user_age_required>
+    <user_gender_required>The gender field is required.</user_gender_required>
+    <user_email_required>The email field is required.</user_email_required>
+    <user_id_required>The id field is required.</user_id_required>
+    <user_address_required>The address field is required.</user_address_required>
+    <user_country_required>The country field is required.</user_country_required>
+    <user_bank_name_required>The bank name field is required</user_bank_name_required>
+    <user_acc_holder_required_update_info>The account holder field is required</user_acc_holder_required_update_info>
+    <user_acc_no_required_update_info>The account number field is required</user_acc_no_required_update_info>
+    <user_swift_code_required_update_info>The swift code field is required</user_swift_code_required_update_info>
+    <user_bank_address_required_update_info>The bank address field is required</user_bank_address_required_update_info>
+    <user_pass_must_6_char_update_info>The password must be at least 6 characters</user_pass_must_6_char_update_info>
+    <!-- Wallet Topup Payment -->
+    <user_invalid_access_wallet>Invalid access token</user_invalid_access_wallet>
+    <user_topup_success>Wallet topup success , amount will be added after verification.</user_topup_success>
+    <user_finish_payment_ok_dollar>please finish payment with okdollar</user_finish_payment_ok_dollar>
+    <user_bank_receipt_required_wallet>The bank receipt field is required</user_bank_receipt_required_wallet>
+    <user_amount_required_wallet>The amount field is required</user_amount_required_wallet>
+    <user_payment_required>The payment type field is required.</user_payment_required>
+    
+    <!--  Withdrawal Request -->
+    <user_invalid_access_withdrawal>Invalid access token</user_invalid_access_withdrawal>
+    <user_withdrawal_req_submit>Withdrawal Request Submitted</user_withdrawal_req_submit>
+    <user_ref_failed_amt_more_bal>Request Failed, Your requested amount is more than balance.</user_ref_failed_amt_more_bal>
+    <user_amount_required_withdrawal>The amount field is required</user_amount_required_withdrawal>
+    <user_withdrawal_required>The withdraw type field is required</user_withdrawal_required>
+    
+    
+    <!--  Payment -->
+    <user_invalid_access_payment>Invalid access token</user_invalid_access_payment>
+    <user_success_trans>success_transcation</user_success_trans>
+    <user_merch_id_must_no_payment>The merchant id must be a number</user_merch_id_must_no_payment>
+    <user_amount_required_payment>The amount field is required.</user_amount_required_payment>
+    <user_pay_code_required>The payment mode field is required</user_pay_code_required>
+    <user_payment_pin_required>The payment pin field is required</user_payment_pin_required>
+    <user_pay_pin_code_mismatch>Payment Pin Code mismatch</user_pay_pin_code_mismatch>
+    <user_file_trans>failed_transcation</user_file_trans>
+    <user_merch_insufficient_credit>Merchant Insufficient Credit</user_merch_insufficient_credit>
+    <user_try_later>Sorry,some thing went wrong.please try again</user_try_later>
+    
+    
+    
+    <!-- Update Profile Pic -->
+    <user_invalid_access_update_profile>Invalid access token</user_invalid_access_update_profile>
+    <user_pro_ing_update_success>Profile Image Updated Successfully</user_pro_ing_update_success>
+    <user_select_any_img>Please select any image</user_select_any_img>
+    <!-- Update General Info -->
+    <user_invalid_access_gen_info>Invalid access token</user_invalid_access_gen_info>
+    <user_acc_onfo_update_success>Account Info Updated Successfully</user_acc_onfo_update_success>
+    <!-- Update Account Bank info -->
+    <user_invalid_access_update_bank>Invalid access token</user_invalid_access_update_bank>
+    <user_bank_info_update_success>Bank Info Updated Successfully</user_bank_info_update_success>
+    <user_bank_required>The bank name field is required</user_bank_required>
+    <user_acc_holder_required_update_bank>The account holder field is required</user_acc_holder_required_update_bank>
+    <user_acc_no_required_update_bank>The account number field is required</user_acc_no_required_update_bank>
+    <user_swift_code_required_update_bank>The swift code field is required</user_swift_code_required_update_bank>
+    <user_bank_addr_required>The bank address field is required</user_bank_addr_required>
+    <!--  Account info -->
+    <user_invalid_access_acc_info> Invalid access token </user_invalid_access_acc_info>
+    <user_acc_info_title>Account Info</user_acc_info_title>
+    
+     <common_New_App_version>A new vesion of DRS User app is available in app store. Please update</common_New_App_version>
+     <common_invalid_token>Invalid access token</common_invalid_token>
+    <common_no_record>No records found</common_no_record>
+   
+</resource>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>169709802633-l7vletsj9apfvh84tknhnbf53e65l2i7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.169709802633-l7vletsj9apfvh84tknhnbf53e65l2i7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChUlSBnF7XGzvJr37psZL7NTbxWVUmhj0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>169709802633</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.drs.drsuser</string>
+	<key>PROJECT_ID</key>
+	<string>drs-user</string>
+	<key>STORAGE_BUCKET</key>
+	<string>drs-user.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:169709802633:ios:1742c00a6720b20790e258</string>
+	<key>DATABASE_URL</key>
+	<string>https://drs-user.firebaseio.com</string>
+</dict>
+</plist>
